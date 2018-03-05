@@ -1,3 +1,3 @@
 public void main(String args[]){
-//dev mode
+//dev mode is quick AND simple.
 }
